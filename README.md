@@ -33,7 +33,7 @@ About me:
 You can find me here too:
 <br>
 [<img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/renato_grasso/)
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/renato-grasso-bueno-nascimento-7a4117144/)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="28" />](https://www.linkedin.com/in/renato-grasso-bueno-nascimento-7a4117144/)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=renatograsso95&show_icons=true&theme=dracula)](https://github.com/renatograsso95)
